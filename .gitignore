@@ -1,8 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /java-code-lab.iml
 /misc.xml
 /modules.xml
 /vcs.xml
 /out/
+/.idea/
