@@ -1,4 +1,4 @@
-package zk.dev.loops;
+package main.java.dev.zk.loops;
 
 public class StarPatterns {
 

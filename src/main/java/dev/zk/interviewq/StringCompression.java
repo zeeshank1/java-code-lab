@@ -1,4 +1,4 @@
-package zk.dev.interviewq;
+package main.java.dev.zk.interviewq;
 
 //AAABBCDDAA--> A3B2CD2A2
 public class StringCompression {

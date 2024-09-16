@@ -1,4 +1,4 @@
-package zk.dev.leet;
+package main.java.dev.zk.leet;
 
 public class MergeAlternateStrings {
 

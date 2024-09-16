@@ -1,4 +1,4 @@
-package zk.dev.interviewq;
+package main.java.dev.zk.interviewq;
 
 /*
 Write a dynamic java program to find sum of the index number of all special characters present in the string.

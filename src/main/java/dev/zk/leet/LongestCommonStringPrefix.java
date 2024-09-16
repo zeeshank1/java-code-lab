@@ -1,15 +1,15 @@
-package zk.dev.leet;
+package main.java.dev.zk.leet;
 
 import java.util.Arrays;
 
 public class LongestCommonStringPrefix {
 
-    private static String longestPrefixFromStringArray(String[] strarr) {
+    public static String longestPrefixFromStringArray(String[] strs) {
         StringBuilder sb = new StringBuilder( );
-        Arrays.sort(strarr);
+        Arrays.sort(strs);
 
-        String firstWord = strarr[0];
-        String lastWord = strarr[strarr.length - 1];
+        String firstWord = strs[0];
+        String lastWord = strs[strs.length - 1];
         int loopLength = Math.min(firstWord.length( ), lastWord.length( ));
         for ( int i = 0; i < loopLength; i++ ) {
             if (firstWord.charAt(i) != lastWord.charAt(i)) {

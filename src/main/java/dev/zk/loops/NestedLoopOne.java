@@ -1,4 +1,4 @@
-package zk.dev.loops;
+package main.java.dev.zk.loops;
 
 public class NestedLoopOne {
 
@@ -8,7 +8,6 @@ public class NestedLoopOne {
         for ( int i = 0; i < 3; i++ ) {
 
             for ( int j = 0; j < 3; j++ ) {
-
                 System.out.println(i + " " + j);
             }
             System.out.println( );
@@ -34,7 +33,6 @@ public class NestedLoopOne {
         for ( int i = 0; i < 3; i++ ) {
 
             for ( int j = 2; j >= 0; j-- ) {
-
                 System.out.println(i + " " + j);
             }
             System.out.println( );

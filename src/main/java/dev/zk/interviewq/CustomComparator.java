@@ -1,4 +1,4 @@
-package zk.dev.interviewq;
+package main.java.dev.zk.interviewq;
 
 ///*
 //    Custom Comparator
@@ -19,7 +19,6 @@ package zk.dev.interviewq;
 //
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 
 class Person {
