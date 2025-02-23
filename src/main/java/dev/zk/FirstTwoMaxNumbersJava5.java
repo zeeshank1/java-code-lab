@@ -35,3 +35,15 @@ public class FirstTwoMaxNumbersJava5 {
         }
     }
 }
+
+/*
+Explanation:
+Initialization: Start with max1 and max2 set to Integer.MIN_VALUE, representing the smallest possible integer value.
+Iteration: For each element in the array:
+If the current number is greater than max1, update max2 to max1 and then set max1 to the current number.
+Otherwise, if the current number is greater than max2 and not equal to max1, update max2.
+Edge Cases:
+If the array has fewer than two elements, output an error message.
+If all elements are equal, max2 remains Integer.MIN_VALUE, and a special message is printed.
+Output: Print max1 and max2.
+*/
