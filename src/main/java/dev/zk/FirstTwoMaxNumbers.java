@@ -19,3 +19,12 @@ public class FirstTwoMaxNumbers {
         System.out.println("First two max numbers: " + maxNumbers);
     }
 }
+/*
+Explanation:
+Arrays.stream(numbers): Converts the array to a stream.
+boxed(): Converts the primitive int to its wrapper class Integer.
+sorted(Comparator.reverseOrder()): Sorts the numbers in descending order.
+distinct(): Removes duplicate numbers.
+limit(2): Limits the stream to the first two elements.
+collect(Collectors.toList()): Collects the result as a list.
+*/
