@@ -1,5 +1,5 @@
 ## Repo for -
-- Interview Programs and Solutions
-- Interview Questions and Answers
-- Coding Platform's Problems and Solutions
-- Java Notes, Diagrams, ASCII
+- Interview Programs and Solutions.
+- Interview Questions and Answers.
+- Coding Platform's Problems and Solutions.
+- Java Notes, Diagrams, ASCII.
