@@ -3,3 +3,4 @@
 - Interview Questions and Answers.
 - Coding Platform's Problems and Solutions.
 - Java Notes, Diagrams, ASCII.
+- Mind maps and Tech Roadmaps.
